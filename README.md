@@ -3,8 +3,8 @@ FrontEnd Developer
 
 I am a self-taught Web Developer consistently looking for self-improvement. Throughout life, I lived in multiple countries and performed across various fields, acquiring a unique set of skills and a rich cultural background. My programming journey began in the spring of 2020, discovered my passion for coding in the process, and never looked back since.
 
-* 🌍  I'm based in Portugal
-* 🧠  I'm learning Angular
+* 🌍  I'm based in Romania
+* 🧠  I'm learning AI
 
 ### Skills
 
